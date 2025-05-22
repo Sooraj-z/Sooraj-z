@@ -1,7 +1,7 @@
 ![ChatGPT Image May 22, 2025, 02_37_38 AM](https://github.com/user-attachments/assets/36549a2d-fb86-45b5-bb9e-4b62cba53331)
 # 👋 Hey, I'm Sooraj Damerashetti
 
-🎓 MSc Data Science student at Manchester Metropolitan University (Distinction average: 82%)  
+🎓 MSc Data Science student at Manchester Metropolitan University
 📍 Based in Manchester, UK | Open to Data Science placements (Sep 2025 – Aug 2026)  
 🚀 I use Python, PyTorch, and ML tools to build intelligent, explainable systems with clarity and control.
 
