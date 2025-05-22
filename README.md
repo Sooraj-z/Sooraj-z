@@ -16,8 +16,8 @@
 ---
 
 ## 📂 Notable Projects
-- 🔍 **[Brain Tumor Classification](https://github.com/Sooraj-z/brain-tumor-classifier)** – 98% accuracy using ResNet18 + SHAP & Grad-CAM  
-- 🕵️ **[Deepfake Detection (CIFAKE)](https://github.com/Sooraj-z/deepfake-detection-cifake)** – Custom CNN & VGG16 with 95% accuracy  
+- 🔍 **[Brain Tumor Classification](https://github.com/Sooraj-z/brain-tumor-classifier)** – 98.93% accuracy using ResNet18 + SHAP & Grad-CAM  
+- 🕵️ **[Deepfake Detection (CIFAKE)](https://github.com/Sooraj-z/deepfake-detection-cifake)** – Custom CNN & VGG16 with 92.5% accuracy  
 
 ---
 
