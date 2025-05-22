@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/2775f147-79af-4cf2-9554-62a85910cdec)
 # 👋 Hey, I'm Sooraj Damerashetti
 
 🎓 MSc Data Science student at Manchester Metropolitan University (Distinction average: 82%)  
