@@ -3,7 +3,7 @@
 
 🎓 MSc Data Science student at Manchester Metropolitan University (Distinction average: 82%)  
 📍 Based in Manchester, UK | Open to Data Science placements (Sep 2025 – Aug 2026)  
-🚀 I use Python, Power BI, and machine learning to turn messy data into clear, strategic insights.  
+🚀 I use Python, PyTorch, and ML tools to build intelligent, explainable systems with clarity and control.
 
 ---
 
