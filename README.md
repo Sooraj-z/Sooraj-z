@@ -1,4 +1,4 @@
-![ChatGPT Image May 22, 2025, 02_37_38 AM](https://github.com/user-attachments/assets/36549a2d-fb86-45b5-bb9e-4b62cba53331)
+![banner](https://github.com/user-attachments/assets/837064ac-fb7d-4c94-9d4f-60f0b509e08e)
 # 👋 Hey, I'm Sooraj Damerashetti
 
 🎓 MSc Data Science student at Manchester Metropolitan University
